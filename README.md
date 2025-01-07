@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saachi Peswani</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer and App Developer from India</h3>
 <img align="right" alt="Coder" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"/>
 
 - 🌱 I’m currently learning **DSA, Competitive Programming**
