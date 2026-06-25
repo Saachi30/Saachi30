@@ -79,7 +79,7 @@
 
 <br/>
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <br/>
 <p align="center">
@@ -87,7 +87,7 @@
 </p>
 <br/>
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saachi30&custom_title=Saachi's%20Contribution%20Graph&bg_color=0d1117&color=00ff87&line=00ff87&point=00ff87&area=true&area_color=00ff8740&hide_border=false&border_color=00ff87&animate=true" alt="Contribution Graph" />
